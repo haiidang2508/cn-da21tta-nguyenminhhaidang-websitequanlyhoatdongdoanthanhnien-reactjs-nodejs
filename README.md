@@ -25,3 +25,4 @@ Dự án giới hạn trong việc phát triển một hệ thống quản lý �
   - MySQL
 - **Quản lý phiên bản**: 
   - Git, GitHub
+  ### Sinh viên thực hiện: Nguyễn Minh Hải Đăng - 110121181 - DA21TTA
